@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import requests
 
 url = "http://192.168.0.104:8082/artifactory/example-repo-local/kubernetes-configmap-reload-0.0.1-SNAPSHOT.jar"
