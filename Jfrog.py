@@ -16,5 +16,3 @@ else:
    print("Response content:")
    print(response.text)  
 
-#response = requests.put(url + "/data/" + file_name, auth=auth, data=open(file_name, "rb"))
-#print(response.status_code)
