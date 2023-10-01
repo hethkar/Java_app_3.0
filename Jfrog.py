@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import requests
 
-url = "http://192.168.0.104:8082/artifactory/example-repo-local/kubernetes-configmap-reload-0.0.1-SNAPSHOT.jar"
+url = "http://192.168.0.105:8082/artifactory/example-repo-local/kubernetes-configmap-reload-0.0.1-SNAPSHOT.jar"
 file_path = '/var/lib/jenkins/workspace/Assignment2/target/kubernetes-configmap-reload-0.0.1-SNAPSHOT.jar'
 username = 'admin'
 password = 'Admin@123'
